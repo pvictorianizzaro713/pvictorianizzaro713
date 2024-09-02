@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left"></h2>
+<h2 align="left"> sobre mim</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left"></h2>
+<h2 align="left"> experiencia em..</h2>
 
 ###
 
